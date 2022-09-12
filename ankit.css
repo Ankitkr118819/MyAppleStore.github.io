@@ -87,7 +87,7 @@
 #home::before {
     display: flex;
     content: "";
-    background: url("../PROJECT-2/images/Project2c.jpg") no-repeat center center/cover;
+    background: url("Project2c.jpg") no-repeat center center/cover;
     position: absolute;
     height: 100%;
     top: 135px;
@@ -182,7 +182,7 @@
 #client-section::before {
     content: "";
     position: absolute;
-    background-image: url(../PROJECT-2/images/white-2172682_1920.jpg);
+    background-image: url(white-2172682_1920.jpg);
     height: 400px;
     width: 100%;
     z-index: -1;
@@ -217,7 +217,7 @@
 #contact::before {
     content: "";
     position: absolute;
-    background-image: url(../PROJECT-2/images/contact-us-4193523_1920.jpg);
+    background-image: url(contact-us-4193523_1920.jpg);
     height: 100%;
     width: 100%;
     z-index: -1;
